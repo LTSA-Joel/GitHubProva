@@ -10,7 +10,7 @@ public class HelloGit {
      * @param args the command line arguments
      */
   public static void main(String[] args) {
-    System.out.println("Constructor de Hijo");
+    System.out.println("Print nou d'un col·laborador");
   }
     
 }
